@@ -1,0 +1,63 @@
+body{
+   font-family: helvetica;
+  color: white;
+} 
+   header {
+      text-align: center;
+      background: url("http://www.bicenspor.com/wp-content/uploads/2014/11/mySquad-dark.jpg");
+      background-size: cover;
+      color: white;
+    }
+    a {
+      color: white;
+      text-decoration: none;
+      font-size: 25px;
+    }
+    h1 {
+      font-size: 50px;
+      color: white;
+    }
+    img {
+      margin: 40px 0px 0px 0px;
+    }
+    ul {
+      padding: 10px;
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+a:hover{
+  font-size: 28px;
+  color: blue;
+}
+article{
+  background: url("http://cdn.desktopwallpapers4.me/wallpapers/music/1920x1200/5/47872-grunge-on-honeycomb-pattern-1920x1200-music-wallpaper.jpg");
+      background-size: conver;
+  color: white;
+  text-size: 20px;
+      padding: 20px;
+      margin: 0 auto;
+   @media (max-width: 500px){
+       h1{
+          font-size: 30px;
+          }
+          li{
+            display: block;
+            padding: 5px;}
+}
+h2{
+  text-size: 30px;
+  padding: 10px 0 0 0;
+}
+article{
+      
+      }
+      @media (max-width: 500px){
+       h1{
+          font-size: 36px;
+          }
+          li{
+            display: block;
+            padding: 5px;
+            }
